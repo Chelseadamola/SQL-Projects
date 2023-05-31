@@ -10,6 +10,6 @@
 
 1. https://github.com/Chelseadamola/COVID-19-Data-Exploration-with-SQL
 
-2. https://github.com/Chelseadamola/Nashville-Housing-Data-Cleaning-with-SQL
-3. 
-4. https://github.com/Chelseadamola/SQL-coding-challenge
+2. https://github.com/Chelseadamola/Nashville-Housing-Data-Cleaning-with-SQL 
+
+3. https://github.com/Chelseadamola/SQL-coding-challenge
