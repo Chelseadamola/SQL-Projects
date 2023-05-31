@@ -1,4 +1,4 @@
-# SQL-Projects
+### SQL-Projects
 
 👋 Welcome to my SQL projects repository! Here you will find a collection of all the links to my latest SQL projects in one place.
 
